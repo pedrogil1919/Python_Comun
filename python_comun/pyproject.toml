@@ -1,0 +1,15 @@
+[project]
+name = "python-comun"
+version = "0.1.0"
+description = "Librería de funciones comunes a todos los proyectos"
+authors = [
+  { name="Pedro Gil Jiménez", email="pedro.gil@uah.es" }
+]
+readme = "README.md"
+requires-python = ">=3.8"
+
+dependencies = []
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
