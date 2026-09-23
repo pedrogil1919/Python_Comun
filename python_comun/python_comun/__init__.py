@@ -1,3 +1,8 @@
-from .formulario_seleccion import abrir_seleccion
-from .funciones_comunes import maximizar_ventana
-from .ventana_inicio import crear_ventana_inicio
+"""
+Python_Comun - Librería de funciones comunes
+"""
+from python_comun.funciones_comunes import *
+from python_comun.ventana_inicio import *
+from python_comun.formulario_seleccion import *
+
+__all__ = []
